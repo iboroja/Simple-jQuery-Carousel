@@ -2,7 +2,7 @@
                           Simple Carousel
 
     Author: Igor Boroja
-    Licence: Feel Free to use in commercial and non-commercial projects.
+    Licence: Feel Free to use code in commercial and non-commercial projects.
     Images: https://pixabay.com         https://pixabay.com/en/service/faq/
 
 */
